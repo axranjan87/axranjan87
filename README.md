@@ -32,6 +32,20 @@
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
-## 📊 GitHub Stats:
-![GitHub stats](https://vercel.com/ayus-projects-ac870de6/axranjan87/deployments&show_icons=true&theme=radical)
+<!--## 📊 GitHub Stats:
+![GitHub stats](https://vercel.com/ayus-projects-ac870de6/axranjan87/deployments&show_icons=true&theme=radical)-->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Asthasingh222&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Asthasingh222&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asthasingh222&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
 
