@@ -32,5 +32,6 @@
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
-<!--## 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=axranjan87&show_icons=true&theme=radical)
+## 📊 GitHub Stats:
+![GitHub stats](https://vercel.com/ayus-projects-ac870de6/axranjan87/deployments&show_icons=true&theme=radical)
+
