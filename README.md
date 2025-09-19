@@ -1,5 +1,5 @@
 
-# Hi 👋,
+ Hi 👋
   I'm AYUSH RANJAN
 --->> Aspiring Software & Web Developer
 
