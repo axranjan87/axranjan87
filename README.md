@@ -10,7 +10,7 @@
 - 👨‍💻 Open to collaborating on front-end projects
 - 📫 Reach me at: ayushranjan8757@gmail.com
 - 🌐<!-- Portfolio: [My Portfolio](https://yourusername.github.io/MyPortfolio/)-->
-- 📄 Check my Resume: [View Resume](https://docs.google.com/document/d/1JCxXlYB_t7aMnlieWl9jrrETbrFitwfV5m0rZ9GGnkk/edit?usp=sharing)
+- 📄 Check my Resume: [View Resume](https://drive.google.com/file/d/1E9hzg0TxR2k2ByHP2hf8MaLAUZdJbiy5/view?usp=drive_link)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-ranjan-710067329/)
